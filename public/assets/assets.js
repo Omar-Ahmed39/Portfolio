@@ -103,7 +103,7 @@ export const workData = [
     {
         title: 'DevFolio site',
         description: 'Portfolio Template',
-        bgImage: '/DevFolio.png',
+        bgImage: '/Devfolio.png',
         link: 'https://omar-ahmed39.github.io/DevFolio/'
     },
 
